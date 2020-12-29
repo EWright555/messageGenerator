@@ -41,3 +41,5 @@ let quote = quotesArray[randNum2];
 console.log(posDes);
 console.log(quote);*/
 console.log(`Good ${timeBlock}, friend! I hope you're having ${posDes} time. Just remember: '${quote}' Stay strong!`)
+//added comments to test github
+//added more comments to practice git
